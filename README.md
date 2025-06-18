@@ -57,12 +57,12 @@ and account management with full encapsulation, inheritance, and polymorphism.
 ## 🧱 Class Structure
 
 ├── Account (Abstract Base Class)
-│ ├── Savings_Account (Savings Account Logic)
-│ └── Current_Account (Current Account Logic)
+│   ├── Savings_Account (Savings Account Logic)
+│   └── Current_Account (Current Account Logic)
 │
 ├── Bank_Operations (Base class for banking operations)
-│ ├── Bank_Employee (Employee operations access)
-│ └── Bank_Customer (Customer operations access)
+│   ├── Bank_Employee (Employee operations access)
+│   └── Bank_Customer (Customer operations access)
 │
 └── Bank (Main System Controller)
 
@@ -86,7 +86,6 @@ and account management with full encapsulation, inheritance, and polymorphism.
 
 ## 📂 File Structure
 
-|--------------------- -|-------------------------------------------|
 | File Name             | Description                               |
 |---------------------- |-------------------------------------------|
 | `Account.h`           | Base account class and abstract interface |
@@ -97,7 +96,6 @@ and account management with full encapsulation, inheritance, and polymorphism.
 | `Bank_Customer.h`     | Customer-specific operations              |
 | `Bank.h`              | System controller for initialization      |
 | `main.cpp`            | Entry point for the program               |
-|---------------------- |-------------------------------------------|
 
 ---
 
