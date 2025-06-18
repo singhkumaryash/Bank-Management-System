@@ -103,4 +103,4 @@ The system simulates the operations of a bank, including account creation, trans
 
 **Yash Kumar Singh**  
 📘 DU PGDAV | 🖥️ Computer Science (Hons) | 💡 Web & Software Developer  
-🔗 [LinkedIn](https://www.linkedin.com/in/yash-kumar-singh-) | 📬 [Email](mailto:yashkumarsingh1607@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/yash-kumar-singh-6148a3302/) | 📬 [Email](mailto:yashkumarsingh1607@gmail.com)
