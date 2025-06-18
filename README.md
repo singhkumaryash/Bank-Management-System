@@ -57,14 +57,15 @@ and account management with full encapsulation, inheritance, and polymorphism.
 ## 🧱 Class Structure
 
 ├── Account (Abstract Base Class)
-│   ├── Savings_Account (Savings Account Logic)
-│   └── Current_Account (Current Account Logic)
+│ ├── Savings_Account (Savings Account Logic)
+│ └── Current_Account (Current Account Logic)
 │
 ├── Bank_Operations (Base class for banking operations)
-│   ├── Bank_Employee (Employee operations access)
-│   └── Bank_Customer (Customer operations access)
+│ ├── Bank_Employee (Employee operations access)
+│ └── Bank_Customer (Customer operations access)
 │
 └── Bank (Main System Controller)
+
 
 ---
 
